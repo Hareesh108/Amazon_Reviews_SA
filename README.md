@@ -14,7 +14,7 @@ Project Name :- Amazon/Flipkart Customer Sentiment Prediction Using Machine Lear
 
 
 
-Sentiment Analysis :- Process of computationally identifying and categorizing opinions from piece of text, and determine whether the writer's attitude towards a particular topic or the product, is Positive, Negative or Neutral.
+Sentiment Analysis :- Process of computationally identifying and categorizing opinions from piece of text, and determine whether the writer's attitude towards a particular topic or the product is Positive, Negative or Neutral.
 
 
 
