@@ -1,27 +1,54 @@
-# Amazon_Reviews_Sentiment_Analysis
+# REGEX SOFTWARE INTERSHIP PROJECT
 
-Hello Everyone,
+## Project Name- Amazon/Flipkart customer sentiment prediction using ML and DL
 
-I am glad to share that I have successfully finished my final project on data science at REGex Software Services.
+## About:
+- Process of computationally identifying from text to check buyer emotion
+tone behind text towards product is Positive or Negative.
+- Used Natural Language Processing (NLP) to understand and potentially
+generate human language.
+- The aim is to Up-selling opportunities, Agent monitoring, Training chatbots, Handling multiple customers etc..
+- TextBlob is an excellent open-source library for performing NLP tasks
+
+## Project Idea: Customers on flipkart or amazon providing product rating and review. Some are
+- positive, some are negative. We can predict customer’s sentiment to classify customers and can use
+those insights to increase sells.
+
+# Datasets:
+- https://drive.google.com/drive/folders/1s4EQIUQxGYn4SMaXAvj2nmRPUrzrMJrO?usp=shari
+ng
+- https://drive.google.com/drive/folders/1h5_9VUeCbfrF7sGuIlz1gRbPke7nuw9K?usp=sharin
+g
+
+Steps:
+1. Data collection (I can Provide)
+2. Data preparation
+3. EDA
+4. Feature engineering
+5. Model creation
 
 
+## Please watch this project demo and explanation video :
+- Click Above Thumbnail
+[![Basic-Banking-App](https://img.youtube.com/vi/8RL1Ikym15k/0.jpg)](https://www.youtube.com/watch?v=8RL1Ikym15k)
 
-I would like to thanks my trainer Utkarsh Sharma and my mentor Subhajit Mondal and all REGex Team.
+## Below you will find sample images :)
 
-
-
-Project Name :- Amazon/Flipkart Customer Sentiment Prediction Using Machine Learning And Deep Learning.
-
-
-
-Sentiment Analysis :- Process of computationally identifying and categorizing opinions from piece of text, and determine whether the writer's attitude towards a particular topic or the product is Positive, Negative or Neutral.
+![](images/1.png)
 
 
+### CODE
 
-Steps :
+![](images/2.png)
 
-> Data Collection
 
-> Data Analysis
+![](images/3.png)
 
-> Draw Some Insight From Data
+
+![](images/4.png)
+
+![](images/5.png)
+
+### THANK YOU !
+
+![](images/8.png)
