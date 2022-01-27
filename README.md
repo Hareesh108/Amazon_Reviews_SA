@@ -30,7 +30,7 @@ Steps:
 
 ## Please watch this project demo and explanation video :
 - Click Above Thumbnail
-[![Basic-Banking-App](https://img.youtube.com/vi/8RL1Ikym15k/0.jpg)](https://www.youtube.com/watch?v=8RL1Ikym15k)
+[![Basic-Banking-App](https://img.youtube.com/vi/ckFFPepEuhg/0.jpg)](https://www.youtube.com/watch?v=ckFFPepEuhg)
 
 ## Below you will find sample images :)
 
