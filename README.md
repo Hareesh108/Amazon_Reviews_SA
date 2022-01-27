@@ -1,4 +1,4 @@
-# REGEX SOFTWARE INTERSHIP PROJECT
+# REGEX SOFTWARE INTERNSHIP PROJECT
 
 ## Project Name- Amazon/Flipkart customer sentiment prediction using ML and DL
 
